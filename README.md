@@ -1,120 +1,176 @@
-## Hi there 👋
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
-<p align="center">
-  Full-Stack Developer • React & Node.js • MongoDB • REST APIs • JWT • MySQL • C++ • Bootstrap
-</p>
+<!-- =========================
+     Animated GitHub Profile
+========================= -->
 
-<!-- Quick Badges -->
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" alt="Portfolio">
-  </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hi%20There!%20I'm%20YOUR_NAME%20👋&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Creative%20Builder&descAlignY=58&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+UI+%26+Scalable+Backends;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 👨🏻‍💻 About me
-- 🔭 Currently building: Hospital Management (MERN), Admin Dashboards, RESTful services
-- 🌱 Learning: System Design, DSA, performance optimization
-- 🤝 Open to: Backend roles (Node/Express), full-stack collabs, open-source
-- 💬 Ask me about: React, Node.js, MongoDB, Express, Auth (JWT), CI/CD
-- 📫 Reach me: youremail@example.com
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 💻 Full-Stack Developer focused on **MERN Stack**
+- 🚀 Currently building **admin dashboards, REST APIs, and scalable web apps**
+- 🌱 Currently learning **System Design, DSA, CI/CD, and performance optimization**
+- 🤝 Open to **full-stack roles, backend roles, and collaboration opportunities**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, JWT Auth, API integration**
+- ⚡ I enjoy building **beautiful UI + strong backend logic**
+- 📫 Reach me at **YOUR_EMAIL**
+
+<br clear="right"/>
 
 ---
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://leetcode.com/YOUR_LEETCODE/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
-- 🧑‍⚕️ **Hospital Management (MERN)** – Auth (JWT), role-based access, appointments, admin approvals  
-  Demo: https://YOUR-DEMO.com • Code: https://github.com/USERNAME/hospital-management
-- 🛒 **E-commerce Product Listing** – Filters, cart, responsive UI, admin panel  
-  Demo: https://YOUR-DEMO.com • Code: https://github.com/USERNAME/product-listing
-- 🤖 **Realtime Chatbot** – WebSockets, URL shortener, moderation  
-  Code: https://github.com/USERNAME/realtime-chatbot
+## 🛠 Tech Stack
 
-> Tip: Pin the 6 best repos on your profile for quick access.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python,cpp,html,css,bootstrap,tailwind,git,github,vscode,postman" />
+
+</div>
 
 ---
 
-### 📈 GitHub Stats (auto)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&include_all_commits=true" height="170" alt="stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" height="170" alt="streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8" height="170" alt="top langs" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-bg=true&margin-w=10&margin-h=10" alt="trophies" />
-</p>
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+- Full-stack MERN application with **JWT authentication**
+- **Role-based access**, appointment handling, and admin features
+- Clean dashboard UI and scalable backend APIs
+
+**Tech:** React, Node.js, Express, MongoDB, JWT
 
 ---
 
-### 🌐 Find me around the web
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE/">
-    <img src="https://img.shields.io/badge/LeetCode-Progress-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/USERNAME?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/Highlights-Starred-black?style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-</p>
+### 🛒 E-Commerce Product Listing
+- Responsive product UI with **filters, cart, and admin panel**
+- Smooth user experience and modular reusable components
+- Focused on maintainable frontend architecture
+
+**Tech:** React, JavaScript, CSS, REST API
 
 ---
 
-### 📝 How I work
-- Clean, modular code with meaningful commits
-- API-first mindset, proper error handling, and testing
-- Performance + DX focused (linting, formatting, CI)
+### 🤖 Realtime Chat / Smart App
+- Interactive realtime features with modern frontend structure
+- Strong focus on usability and backend integration
+- Good project to showcase async handling and app flow
 
-<!-- Optional: profile views (remove if you prefer privacy) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views" alt="Profile views" />
-</p>
+**Tech:** Node.js, Express, MongoDB, WebSockets
 
+---
 
-<!--
-**Anmolhanda2002/anmolhanda2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+> For the snake animation, you need to add a GitHub Action in your profile repo later.
+
+---
+
+## 💼 What I Focus On
+
+- Writing clean and reusable code
+- Building responsive and modern UI
+- Designing REST APIs and backend logic
+- Authentication and role-based systems
+- Performance improvement and debugging
+- CI/CD and production deployment learning
+
+---
+
+## ✨ A Few Personal Highlights
+
+- 🎯 Passionate about becoming a stronger full-stack engineer
+- 📚 Learning consistently every day
+- 🧠 Interested in backend architecture and real-world product building
+- 🔥 Goal: build impactful products and grow into a high-value engineer
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" />
+
+</div>
